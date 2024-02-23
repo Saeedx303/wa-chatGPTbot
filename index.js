@@ -1,5 +1,5 @@
 const sessionName = "session";
-const owner = ["94775207710" , "94703086910"];
+const owner = ["923477008403" , "923137183974" , "923361501800"];
 const {
   default: scriptConnect,
   useSingleFileAuthState,
